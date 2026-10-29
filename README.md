@@ -2,8 +2,6 @@
 
 Aplicação web para gerenciar **pacientes, medicamentos e vendas** de uma farmácia, com interface em Bootstrap e API REST em Node.js + MongoDB. Desenvolvida como projeto de avaliação escolar.
 
-![Tela inicial](public/images/Capture.PNG)
-
 ## ✨ Funcionalidades
 
 - Cadastro, listagem, edição e exclusão de **pacientes**, **medicamentos** e **vendas** (CRUD completo)
